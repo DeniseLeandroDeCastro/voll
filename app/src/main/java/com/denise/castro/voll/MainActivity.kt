@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.denise.castro.voll.navigation.VollRoute
 import com.denise.castro.voll.ui.theme.VollTheme
 
 class MainActivity : ComponentActivity() {
@@ -19,8 +20,16 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             VollTheme {
-
+                VollRoute()
             }
         }
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun MainPreview() {
+    VollTheme {
+        VollRoute()
     }
 }
