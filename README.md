@@ -11,7 +11,7 @@
 ## Apresentando o aplicativo
 <p>
   O Voll é um aplicativo,  parte de um projeto completo, com a seguinte estrutura:<br>
-  <strong>Backend:</strong> Java, SprongBoot;<br>
+  <strong>Backend:</strong> Java, SpringBoot;<br>
   <strong>Mobile:</strong> Android (Jetpack Compose);<br>
   <strong>Frontend:</strong> Angular<br>
 </p>
