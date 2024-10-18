@@ -8,3 +8,18 @@
 
 </div>
 
+## Apresentando o aplicativo
+<p>
+  O Voll é um aplicativo,  parte de um projeto completo, com a seguinte estrutura:<br>
+  <strong>Backend:</strong> Java, SprongBoot;<br>
+  <strong>Mobile:</strong> Android (Jetpack Compose);<br>
+  <strong>Frontend:</strong> Angular<br>
+</p>
+
+### Telas
+
+#### HomeScreen
+
+<img src="https://github.com/user-attachments/assets/983dbf9e-eb1b-4fc9-bd60-a968a9782e05" width="300" height="600"/>
+
+
